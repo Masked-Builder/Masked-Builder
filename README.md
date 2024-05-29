@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Masked-Builder
+- 👀 I’m interested in micro:bit
+- 🌱 I’m currently learning to code micro:bit
+- 😄 Pronouns: he/him
